@@ -1,0 +1,1 @@
+minerd.exe -a sha256d -r 1 -t 4 -s 6 -o stratum+tcp://us.litecoinpool.org:8080 -O rusian24.1:1
